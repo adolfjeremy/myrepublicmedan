@@ -9,8 +9,8 @@
                     <h1>Paket Internet Fiber Ultra Cepat dan Unlimited di Kota Medan</h1>
                 </div>
                 <div class="col-12 d-flex align-items-center justify-content-center gap-4 mt-4">
-                    <a href="" role="button" class="btn btn-outline-light fw-semibold">Daftar Sekarang</a>
-                    <a href="" role="button" class="btn btn-warning text-light fw-semibold">Selengkapnya</a>
+                    <a href="https://wa.me/6285372707853?text=Halo%20Sion,%20Saya%20mau%20daftar%20MyRepublic" target="_blank" rel="noopener noreferrer" role="button" class="btn btn-outline-light fw-semibold">Daftar Sekarang</a>
+                    <a href="#paket" role="button" class="btn btn-warning text-light fw-semibold">Selengkapnya</a>
                 </div>
             </div>
         </div>
@@ -86,7 +86,7 @@
             </div>
         </div>
     </section>
-    <section class="mt-5 paket">
+    <section class="mt-5 paket" id="paket">
         <div id="exTab1" class="container">
             <div class="row">
                 <div class="col-12 text-center">
@@ -114,10 +114,11 @@
                                 <hr>
                                 <h5>Rp. 309 RIBU <span>/ BULAN</span></h5>
                                 <span>*HARGA BELUM TERMASUK PPN 11%</span>
+                                <br>
                                 <span>*UNTUK KECEPATAN MAKSIMAL GUNAKAN KABEL LAN</span>
                             </div>
                             <div class="mt-2">
-                                <a href="" class="btn text-light custom-button">
+                                <a href="https://wa.me/6285372707853?text=Halo%20Sion,%20Saya%20mau%20daftar%20paket%20value%20MyRepublic" target="_blank" rel="noopener noreferrer" class="btn text-light custom-button">
                                     Pilih Paket
                                 </a>
                             </div>
@@ -134,10 +135,11 @@
                                 <hr>
                                 <h5>Rp. 409 RIBU <span>/ BULAN</span></h5>
                                 <span>*HARGA BELUM TERMASUK PPN 11%</span>
+                                <br>
                                 <span>*UNTUK KECEPATAN MAKSIMAL GUNAKAN KABEL LAN</span>
                             </div>
                             <div class="mt-2">
-                                <a href="" class="btn text-light custom-button">
+                                <a href="https://wa.me/6285372707853?text=Halo%20Sion,%20Saya%20mau%20daftar%20paket%20fast%20MyRepublic" target="_blank" rel="noopener noreferrer" class="btn text-light custom-button">
                                     Pilih Paket
                                 </a>
                             </div>
@@ -155,10 +157,11 @@
                                 <hr>
                                 <h5>Rp. 639 RIBU <span>/ BULAN</span></h5>
                                 <span>*HARGA BELUM TERMASUK PPN 11%</span>
+                                <br>
                                 <span>*UNTUK KECEPATAN MAKSIMAL GUNAKAN KABEL LAN</span>
                             </div>
                             <div class="mt-2">
-                                <a href="" class="btn text-light custom-button">
+                                <a href="https://wa.me/6285372707853?text=Halo%20Sion,%20Saya%20mau%20daftar%20paket%20nova%20MyRepublic" target="_blank" rel="noopener noreferrer" class="btn text-light custom-button">
                                     Pilih Paket
                                 </a>
                             </div>
@@ -176,10 +179,11 @@
                                 <hr>
                                 <h5>Rp. 749 RIBU <span>/ BULAN</span></h5>
                                 <span>*HARGA BELUM TERMASUK PPN 11%</span>
+                                <br>
                                 <span>*UNTUK KECEPATAN MAKSIMAL GUNAKAN KABEL LAN</span>
                             </div>
                             <div class="mt-2">
-                                <a href="" class="btn text-light custom-button">
+                                <a href="https://wa.me/6285372707853?text=Halo%20Sion,%20Saya%20mau%20daftar%20paket%20my%20gamer%20MyRepublic" target="_blank" rel="noopener noreferrer" class="btn text-light custom-button">
                                     Pilih Paket
                                 </a>
                             </div>
@@ -202,10 +206,11 @@
                                 <hr>
                                 <h5>Rp. 389 RIBU <span>/ BULAN</span></h5>
                                 <span>*HARGA BELUM TERMASUK PPN 11%</span>
+                                <br>
                                 <span>*UNTUK KECEPATAN MAKSIMAL GUNAKAN KABEL LAN</span>
                             </div>
                             <div class="mt-2">
-                                <a href="" class="btn text-light custom-button">
+                                <a href="https://wa.me/6285372707853?text=Halo%20Sion,%20Saya%20mau%20daftar%20paket%20internet%20dan%20tv%20value%20MyRepublic" target="_blank" rel="noopener noreferrer" class="btn text-light custom-button">
                                     Pilih Paket
                                 </a>
                             </div>
@@ -224,10 +229,11 @@
                                 <hr>
                                 <h5>Rp. 509 RIBU <span>/ BULAN</span></h5>
                                 <span>*HARGA BELUM TERMASUK PPN 11%</span>
+                                <br>
                                 <span>*UNTUK KECEPATAN MAKSIMAL GUNAKAN KABEL LAN</span>
                             </div>
                             <div class="mt-2">
-                                <a href="" class="btn text-light custom-button">
+                                <a href="https://wa.me/6285372707853?text=Halo%20Sion,%20Saya%20mau%20daftar%20paket%20internet%20dan%20tv%20fast%20MyRepublic" target="_blank" rel="noopener noreferrer" class="btn text-light custom-button">
                                     Pilih Paket
                                 </a>
                             </div>
@@ -247,10 +253,11 @@
                                 <hr>
                                 <h5>Rp. 739 RIBU <span>/ BULAN</span></h5>
                                 <span>*HARGA BELUM TERMASUK PPN 11%</span>
+                                <br>
                                 <span>*UNTUK KECEPATAN MAKSIMAL GUNAKAN KABEL LAN</span>
                             </div>
                             <div class="mt-2">
-                                <a href="" class="btn text-light custom-button">
+                                <a href="https://wa.me/6285372707853?text=Halo%20Sion,%20Saya%20mau%20daftar%20paket%20internet%20dan%20tv%20nova%20MyRepublic" target="_blank" rel="noopener noreferrer" class="btn text-light custom-button">
                                     Pilih Paket
                                 </a>
                             </div>
@@ -270,10 +277,11 @@
                                 <hr>
                                 <h5>Rp. 829 RIBU <span>/ BULAN</span></h5>
                                 <span>*HARGA BELUM TERMASUK PPN 11%</span>
+                                <br>
                                 <span>*UNTUK KECEPATAN MAKSIMAL GUNAKAN KABEL LAN</span>
                             </div>
                             <div class="mt-2">
-                                <a href="" class="btn text-light custom-button">
+                                <a href="https://wa.me/6285372707853?text=Halo%20Sion,%20Saya%20mau%20daftar%20paket%20internet%20dan%20tv%20my%20gamer%20MyRepublic" target="_blank" rel="noopener noreferrer" class="btn text-light custom-button">
                                     Pilih Paket
                                 </a>
                             </div>
@@ -281,6 +289,19 @@
                     </div>
                 </div>
 			</div>
+        </div>
+    </section>
+    <section class="mt-5 contact py-5">
+        <div class="overlay"></div>
+        <div class="container position-relative">
+            <div class="row">
+                <div class="col-12 flex-column flex-md-row text-center d-flex align-items-center justify-content-center gap-5">
+                    <h6 class="m-0 text-light">Hubungi Kami Untuk Detail Paket</h6>
+                    <a href="https://wa.me/6285372707853?text=Halo%20Sion,%20Saya%20mau%20daftar%20MyRepublic" target="_blank" rel="noopener noreferrer" class="btn btn-warning fw-semibold">
+                        Hubungi Kami
+                    </a>
+                </div>
+            </div>
         </div>
     </section>
 @endsection
